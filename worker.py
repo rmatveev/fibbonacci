@@ -1,6 +1,5 @@
 # Function for nth Fibonacci number
 def Fibonacci(n):
-    return n+1
    
     # Check if input is 0 then it will
     # print incorrect input
